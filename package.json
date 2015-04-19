@@ -25,7 +25,8 @@
         "once": "1.3.1",
         "readable-stream": "1.1.13",
         "buffalo": "^0.1.3",
-        "verror": "1.6.0"
+        "verror": "1.6.0",
+        "unik": "0.1.0"
     },
     "optionalDependencies": {
         "dtrace-provider": "0.3.1"
